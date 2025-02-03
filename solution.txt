@@ -1,0 +1,2 @@
+Let x be Franklin's age. Then his dad is 31 - 8 = 23 years older, so his dad's age is x + 23.
+If his dad is double his age, set x + 23 = 2x. Then x = 23, so Franklin is 23 years old.
